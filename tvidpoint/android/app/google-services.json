@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421015696080",
+    "project_id": "tvid-d794f",
+    "storage_bucket": "tvid-d794f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421015696080:android:c7690bec7a8672144ae4d5",
+        "android_client_info": {
+          "package_name": "com.example.tvidpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421015696080-ogqf36k5e3p4il6clfaps54vdc2fclsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEwczX48M5XSNFMqkdrJSnB_6shBCtpkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421015696080-ogqf36k5e3p4il6clfaps54vdc2fclsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
