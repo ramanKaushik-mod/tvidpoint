@@ -4,3 +4,5 @@ class Constants {
   static String onBoardVisit = "ON_BOARD_VISIT";
   static String signedIn = "SIGNED_IN";
 }
+
+//constants
